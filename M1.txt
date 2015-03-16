@@ -1,0 +1,5 @@
+Milestone 1:
+15.03.2015
+
+- move subtitles forward/backward
+- show subtitles over the video
