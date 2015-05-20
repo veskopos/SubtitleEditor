@@ -16,7 +16,7 @@ Shoes.app(title:"SubtitleEditor" ) do
  end
   a=ask("Do you want to move all subtitles")
   if(a=="yes")
-    haha=ask("Select which subtitle") 
+    haha=ask("Select with how much time we are going to move start subtitles") 
     haha=haha.to_i
     haha1=ask("Select with how much time we are going to move finish subtitles") 
     haha1=haha1.to_i 
